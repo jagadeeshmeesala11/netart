@@ -135,5 +135,17 @@ width: 20vw;
     height: 20vh;
     width: 80vw;
 }
+.tools{
+    width: 95vw;
+    height: 30vh;
+}
+.para{
+    margin: 0px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+.venu{
+    margin-left: 10px;
+}
 
 }

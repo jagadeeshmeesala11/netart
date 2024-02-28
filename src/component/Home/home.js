@@ -43,7 +43,7 @@ const Home = () => {
       <img src={toolsImage}  alt="tools" className='tools' />
       </div>
       <div>
-        <h3>Valves - Pumps - Pipes - IoT Drives & Controllers - Wires & Cables - Solar Systems - Motors </h3>
+        <h3 className='venu'>Valves - Pumps - Pipes - IoT Drives & Controllers - Wires & Cables - Solar Systems - Motors </h3>
       </div>
       <hr className='line' />
 
